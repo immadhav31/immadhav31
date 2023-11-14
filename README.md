@@ -2,7 +2,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <h3> 👨🏻‍💻 About Me </h3>
-<img align="right" alt="GIF" src="https://github.com/immadhav31/immadhav31/blob/main/gif3.gif" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/immadhav31/immadhav31/blob/main/gif3.gif" width="350"/>
 
 - 🔭 &nbsp; I’m currently learning Full Stack Development and Flutter App Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -14,7 +14,7 @@
 
 ## 🍃 I develop beautiful websites and AI applications!
 
-<h3>🛠 Tech Stack</h3>
+## <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | Java | Matlab
 - 🌐 &nbsp; HTML | CSS | JavaScript | React 
@@ -22,7 +22,7 @@
 - 🔧 &nbsp;  IntelliJ | Visual Studio code | Eclipse | Git | PyCharm
 - 🖥 &nbsp; Adobe Photoshop | Premiere Pro | Canva | Filmora
 
-#### My Interests
+## My Interests
 I'm deeply passionate and striving to learn more about:
 - 📱 App Development
 - 🌐 Web Development
