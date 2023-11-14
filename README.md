@@ -1,9 +1,8 @@
 ### Hi there 👋, I'm Madhav. Nice to meet you!
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<img align="right" alt="GIF" src="https://github.com/immadhav31/immadhav31/blob/main/gif3.gif" width="400"/>
-
 <h3> 👨🏻‍💻 About Me </h3>
+<img align="right" alt="GIF" src="https://github.com/immadhav31/immadhav31/blob/main/gif3.gif" width="400"/>
 
 - 🔭 &nbsp; I’m currently learning Full Stack Development and Flutter App Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -13,7 +12,7 @@
 - 🎻 &nbsp; Play Violin and do Graphic design as part of hobbies/side hustles.
 -  ✨ &nbsp; Believe - Everything happens for a reason!
 
-🍃 I develop beautiful websites and AI applications!
+## 🍃 I develop beautiful websites and AI applications!
 
 <h3>🛠 Tech Stack</h3>
 
