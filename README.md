@@ -2,7 +2,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <h3> 👨🏻‍💻 About Me </h3>
-<img align="right" alt="GIF" src="https://github.com/immadhav31/immadhav31/blob/main/gif3.gif" width="350"/>
+<img align="right" alt="GIF" src="https://github.com/immadhav31/immadhav31/blob/main/gif3.gif" width="320"/>
 
 - 🔭 &nbsp; I’m currently learning Full Stack Development and Flutter App Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
