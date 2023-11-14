@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Madhav. Nice to meet you!
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
+<img align="right" alt="GIF" src="https://github.com/immadhav31/immadhav31/blob/main/gif3.gif" width="500"/>
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Full Stack Development and Flutter App Development.
@@ -9,7 +11,7 @@
 - 💼 &nbsp; Front-end web developer.
 - 🌱 &nbsp; DSA and AI Enthusiast.
 - 🎻 &nbsp; Play Violin and do Graphic design as part of hobbies/side hustles.
-- ## ✨ &nbsp; Believe - Everything happens for a reason!
+- # ✨ &nbsp; Believe - Everything happens for a reason!
 
 🍃 I develop beautiful websites and AI applications!
 
