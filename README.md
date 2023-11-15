@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Madhav. Nice to meet you!
+# Hi there 👋, I'm Madhav. Nice to meet you!
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <h3> 👨🏻‍💻 About Me </h3>
