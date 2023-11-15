@@ -1,4 +1,7 @@
-# Hi there 👋, I'm Madhav. Nice to meet you!
+<div style="display: flex; justify-content: center;">
+  <h1>Hi there 👋, I'm Madhav. Nice to meet you!</h1>
+</div>
+
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <h2> 👨🏻‍💻 About Me </h2>
