@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Madhav. Nice to meet you!
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h2> 👨🏻‍💻 About Me </h2>
 <img align="right" alt="GIF" src="https://github.com/immadhav31/immadhav31/blob/main/gif3.gif" width="320"/>
 
 - 🔭 &nbsp; I’m currently learning Full Stack Development and Flutter App Development.
