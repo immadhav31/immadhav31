@@ -46,7 +46,7 @@ I'm deeply passionate and striving to learn more about:
   <a href="https://www.linkedin.com/in/immadhav31/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" />
   </a>
-  <a href="mailto:madhavmuralidharan123@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:reach.madhavm@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" />
   </a>
 </p>
